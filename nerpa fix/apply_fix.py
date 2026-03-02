@@ -97,3 +97,4 @@ with open('{target_file}', 'w') as f:
 
 if __name__ == "__main__":
     apply_patch()
+
